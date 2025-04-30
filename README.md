@@ -20,7 +20,7 @@ Sur who.is on vois que
 Pickup-relay.com:
 <img width="885" alt="Capture d’écran 2025-04-30 à 10 08 31" src="https://github.com/user-attachments/assets/f7c2aef6-4470-45e2-bcbe-ce2a27dc44e7" />
 
-Pickup.fr 
+Pickup.fr :
 <img width="880" alt="Capture d’écran 2025-04-30 à 10 48 15" src="https://github.com/user-attachments/assets/04cbbb4a-983b-4452-a4a5-c7242379c844" />
 
 On vois que sur le site pickup-relay.com, on ne peux voir aucune données sur le site contrairement a pickup.com ou la tou est visible et consultable. Une entreprise peux rendre visible se sinformations si elle n'a rien a cacher. 
@@ -31,4 +31,11 @@ Vous le savez sans doute bien, les coins à champignons sont très bien gardés,
 
 Je vous ai envoyé une photo d’un beau champignon que j’ai trouvé (à télécharger sur Teams).
 
-## a) Curieux comme vous êtes, trouvez la localisation de ce coin à champignon
+### a) Curieux comme vous êtes, trouvez la localisation de ce coin à champignon
+Cette photo a été prise a la Tour de Montcuq. 
+
+### b) Quelle preuve de cette supercherie trouvez-vous ?
+Grace aux donée GPS de la photo on peux voir qu'elle n'a pas du tout été prise dans un coin a champigons. 
+
+
+
