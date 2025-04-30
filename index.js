@@ -9,7 +9,6 @@ function dmsToDecimal(dms, ref) {
     let dec = degrees + minutes / 60 + seconds / 3600;
     return (ref === 'S' || ref === 'W') ? -dec : dec;
 }
-let images_number = 0
 fs.readdir(images_dir, (err, files) => {
     if (err) {
         return console.log('Unable to scan directory: ' + err);
