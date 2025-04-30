@@ -6,11 +6,29 @@ Rendu pour le cours de culture informatique.
 Depuis 2019-05-21
 
 ### b) Chez quels hébergeurs sont mes projets ?
-Vercel ou Infomaniak. 
+Vercel ou Infomaniak.
+
 
 ### c) À quelle date est-ce que j’ai mis en ligne la refonte du site Typogama ? Depuis quand ce site existait-il ?
 La refonte a été mise en ligne le 2024-11-26 et il existais depuis 2014-08-28.
 
 ### d) Je reçois le SMS suivant, quelles sont les preuves que c’est un scam ? : "Bonjour, votre colis ne rentre pas dans la boîte aux lettres. Merci de choisir de choisir un point relais pour le dépôt : https://pickup-relays.com" 
 
+Sur who.is on vois que 
+
+### e) Comparer les informations du domaine précédent à ce domaine : pickup.fr. Qu’est-ce qui pousse une organisation à rendre public ou non les informations de son domaine ?
+Pickup-relay.com:
 <img width="885" alt="Capture d’écran 2025-04-30 à 10 08 31" src="https://github.com/user-attachments/assets/f7c2aef6-4470-45e2-bcbe-ce2a27dc44e7" />
+
+Pickup.fr 
+<img width="880" alt="Capture d’écran 2025-04-30 à 10 48 15" src="https://github.com/user-attachments/assets/04cbbb4a-983b-4452-a4a5-c7242379c844" />
+
+On vois que sur le site pickup-relay.com, on ne peux voir aucune données sur le site contrairement a pickup.com ou la tou est visible et consultable. Une entreprise peux rendre visible se sinformations si elle n'a rien a cacher. 
+
+
+## 2. Partage d’un coin à champignon ? 
+Vous le savez sans doute bien, les coins à champignons sont très bien gardés, et ça ne se partage pas !
+
+Je vous ai envoyé une photo d’un beau champignon que j’ai trouvé (à télécharger sur Teams).
+
+## a) Curieux comme vous êtes, trouvez la localisation de ce coin à champignon
