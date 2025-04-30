@@ -14,7 +14,7 @@ La refonte a été mise en ligne le 2024-11-26 et il existais depuis 2014-08-28.
 
 ### d) Je reçois le SMS suivant, quelles sont les preuves que c’est un scam ? : "Bonjour, votre colis ne rentre pas dans la boîte aux lettres. Merci de choisir de choisir un point relais pour le dépôt : https://pickup-relays.com"
 
-Sur who.is on vois que
+Sur who.is on vois que pickup-relay n'a quasiment aucune donnée visible. 
 
 ### e) Comparer les informations du domaine précédent à ce domaine : pickup.fr. Qu’est-ce qui pousse une organisation à rendre public ou non les informations de son domaine ?
 Pickup-relay.com:
