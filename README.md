@@ -37,5 +37,7 @@ Cette photo a été prise a la Tour de Montcuq.
 ### b) Quelle preuve de cette supercherie trouvez-vous ?
 Grace aux donée GPS de la photo on peux voir qu'elle n'a pas du tout été prise dans un coin a champigons. 
 
+## 3. On stalke à fond
+Vous trouverez sur Teams un dossier avec quelques images de mon dernier voyage.
 
-
+### a) Établir mon itinéraire complet avec les endroits où je suis allé et à quelles dates, dans quel ordre ?
