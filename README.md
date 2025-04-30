@@ -41,3 +41,22 @@ Grace aux donée GPS de la photo on peux voir qu'elle n'a pas du tout été pris
 Vous trouverez sur Teams un dossier avec quelques images de mon dernier voyage.
 
 ### a) Établir mon itinéraire complet avec les endroits où je suis allé et à quelles dates, dans quel ordre ?
+Pour lancer le projet : 
+Cloner le repository puis dans le teminal entrer la commande : 
+```
+npm i 
+```
+
+Puis ouvrir le fichier index.html dans un navigateur. 
+
+### b) Combien de temps a duré mon voyage, de quand à quand ?
+Le voyage a duré du 7 au 19 mars 2025 soit environ 12 jours. 
+
+### c) Est-ce que j’avais un appareil photo ou les images viennent de mon téléphone ?
+Les images ont été prise avec un iPhone 15 pro. 
+
+### d) Est-ce que j’ai codé pendant mes vacances ?
+Selon les commits Github, non.
+
+### e) Est-ce que j’ai utilisé un logiciel de retouche ?
+Non.
